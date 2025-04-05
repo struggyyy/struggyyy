@@ -1,10 +1,8 @@
 # 👋 Hi there, I'm Jakub Strugała — aka **struggyyy**
 
-🎓 Final year **Engineering Student in Applied Computer Science**  
-🏫 Studying at **WSEI, Cracow**
-
 💼 **UI Developer @ NOKIA**  
-🌍 Based in Poland | Passionate about tech, design & innovation
+
+🎓 Final year **Engineering Student in Applied Computer Science** — at **WSEI, Cracow**
 
 ---
 
@@ -15,9 +13,9 @@ I'm a developer who blends **creativity**, **technical expertise**, and a strong
 > ⚠️ I might not have a massive GitHub footprint — but don’t be fooled.  
 > My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
 
-In my free time, I’m building something meaningful for **cities and residents** – I can’t say more yet, but it’s something I truly believe will make a difference. 🌆🤫
+Right now in my free time, I’m building something meaningful for **cities and residents** – I can’t say more yet, but it’s something I truly believe will make a difference. 🌆🤫
 
-Oh, and I used to be a content creator with **millions of monthly views**, so I know how to **spot trends** and **move fast** in a dynamic environment.
+Oh, and I used to be a content creator reaching **millions of monthly views**, so I know how to **spot trends** and **move fast** in a dynamic environment.
 
 ---
 
@@ -44,27 +42,9 @@ Oh, and I used to be a content creator with **millions of monthly views**, so I 
 
 ---
 
-## 📚 Experience
-
-### 💼 UI Developer — NOKIA  
-`Present`  
-Working on high-level user interfaces in a team that values clean code, design thinking, and performance.
-
----
-
-## 🎨 Other Creative Skills
-
-- 🎥 **Video Editing** – Adobe Premiere Pro  
-- 🖌️ **3D Modelling** – Blender  
-- 🛠️ **Prototyping** – Figma  
-- 🎮 Hobby gamedev & UI experimentation  
-
----
-
 ## 📈 GitHub Stats (Public Only 😉)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=struggyyy&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=struggyyy&layout=compact&theme=tokyonight" />
 </p>
 
@@ -73,7 +53,7 @@ Working on high-level user interfaces in a team that values clean code, design t
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/) 
-- 🌐 Portfolio coming soon  
+- 🌐 Portfolio Website coming soon...  
 - 📧 Email: jakub.strugala.business@gmail.com
 
 ---
