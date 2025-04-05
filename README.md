@@ -14,4 +14,4 @@
 
 #### ✉️ Email: jakub.strugala.business@gmail.com
 
-> ##### ⚠️ I might not have a massive GitHub footprint — but don’t be fooled. My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
+> ###### ⚠️ I might not have a massive GitHub footprint — but don’t be fooled. My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
