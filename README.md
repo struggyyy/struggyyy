@@ -42,22 +42,8 @@ Oh, and I used to be a content creator reaching **millions of monthly views**, s
 
 ---
 
-## 📈 GitHub Stats (Public Only 😉)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=struggyyy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/) 
 - 🌐 Portfolio Website coming soon...  
 - 📧 Email: jakub.strugala.business@gmail.com
-
----
-
-_Thanks for stopping by. Let’s build something awesome._  
-**– Jakub**
-
