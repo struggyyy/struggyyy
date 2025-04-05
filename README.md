@@ -2,7 +2,7 @@
 
 #### 💼 **UI Developer @ [NOKIA](https://www.linkedin.com/company/nokia/posts/?feedView=all)**  
 
-#### 🎓 Final year **Engineering Student in Applied Computer Science** — at **[WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)**
+#### 🎓 Final year **Engineering Student in Applied Computer Science** @ **[WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)**
 
 # 👀 What's coming?
 
@@ -14,5 +14,5 @@
 
 #### 📧 Email: jakub.strugala.business@gmail.com
 
-⚠️ I might not have a massive GitHub footprint — but don’t be fooled.  
-My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
+> ⚠️ I might not have a massive GitHub footprint — but don’t be fooled.  
+> My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
