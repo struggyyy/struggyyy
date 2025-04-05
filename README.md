@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jakub Strugała — aka **struggyyy**
 
-<!--
-**struggyyy/struggyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year **Engineering Student in Applied Computer Science**  
+🏫 Studying at **WSEI, Cracow**
 
-Here are some ideas to get you started:
+💼 **UI Developer @ NOKIA**  
+🌍 Based in Poland | Passionate about tech, design & innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a developer who blends **creativity**, **technical expertise**, and a strong **adaptability to fast-changing environments**. Currently working at **Nokia** as a UI Developer, while finishing up my engineering degree.
+
+> ⚠️ I might not have a massive GitHub footprint — but don’t be fooled.  
+> My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
+
+In my free time, I’m building something meaningful for **cities and residents** – I can’t say more yet, but it’s something I truly believe will make a difference. 🌆🤫
+
+Oh, and I used to be a content creator with **millions of monthly views**, so I know how to **spot trends** and **move fast** in a dynamic environment.
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Experience
+
+### 💼 UI Developer — NOKIA  
+`Present`  
+Working on high-level user interfaces in a team that values clean code, design thinking, and performance.
+
+---
+
+## 🎨 Other Creative Skills
+
+- 🎥 **Video Editing** – Adobe Premiere Pro  
+- 🖌️ **3D Modelling** – Blender  
+- 🛠️ **Prototyping** – Figma  
+- 🎮 Hobby gamedev & UI experimentation  
+
+---
+
+## 📈 GitHub Stats (Public Only 😉)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=struggyyy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=struggyyy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/) 
+- 🌐 Portfolio coming soon  
+- 📧 Email: jakub.strugala.business@gmail.com
+
+---
+
+_Thanks for stopping by. Let’s build something awesome._  
+**– Jakub**
+
