@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Jakub Strugała — aka **struggyyy**
 
-#### 💻 **UI Developer @ [NOKIA](https://www.linkedin.com/company/nokia/posts/?feedView=all)**  
-
-#### 🎓 Final year **Engineering Student in Applied Computer Science** @ **[WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)**
+### 💻 **UI Developer @ [NOKIA](https://www.linkedin.com/company/nokia/posts/?feedView=all)**  
+### 🎓 Final year **Engineering Student in Applied Computer Science** @ **[WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)**
 
 # 👀 What's coming?
 
