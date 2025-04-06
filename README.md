@@ -5,7 +5,7 @@
 
 # 👀 What's coming?
 
-#### Currently in my free time, I’m building something meaningful for **cities and their residents** – I can’t say more yet, but it’s something I truly believe will make a difference. 🤫
+#### Currently building my side project which will benefit **cities and their communities** – I can’t say more yet, but it’s something I believe will truly make a difference. 🤫
 
 # 📫 Let's Connect
 
