@@ -14,7 +14,7 @@ I can’t say more just yet — but it’s something I believe will **truly make
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/)  
+- 👔 [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/)  
 - ✉️ jakub.strugala.business@gmail.com
 
 > ⚠️ I might not have a massive GitHub footprint — but don’t be fooled. My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
