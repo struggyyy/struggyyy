@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=900&height=200&section=header&text=Jakub%20Strugała&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
-### 💻 UI Developer @[NOKIA](https://www.linkedin.com/company/nokia/posts/?feedView=all)
 
+### 💻 UI Developer @ [Nokia](https://www.linkedin.com/company/nokia/)
 ### 🎓 Final-year Engineering Student (Applied Computer Science) @ [WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)
 
 ---
