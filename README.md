@@ -7,23 +7,7 @@
 ### 🎓 Final-year Engineering Student (Applied Computer Science) @ [WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)
 
 
-
 ---
-
-
-
-## 👀 What's Coming?
-
-
-
-Currently building a side project aimed at benefiting **cities and their communities**.  
-
-I can’t say more just yet — but it’s something I believe will **truly make a difference**. 🤫
-
-
-
----
-
 
 
 ## 📫 Let's Connect
