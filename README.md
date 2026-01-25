@@ -1,32 +1,39 @@
-# <p align="center">🛠️ Full-Stack Engineer in Stealth Mode</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=900&height=200&section=header&text=Jakub%20Strugała&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## 🌑 The Private Grind
-**UI Developer @ [Nokia](https://www.linkedin.com/company/nokia/)** | Finalizing **CS Engineering** Degree 🎓
-> I build cross-platform ecosystems when the sun goes down. Most of my latest work stays private until it's ready to disrupt.
+### 💻 UI Developer @ [NOKIA](https://www.linkedin.com/company/nokia/posts/?feedView=all)  
+
+### 🎓 Final-year Engineering Student (Applied Computer Science) @ [WSEI](https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/posts/?feedView=all)
+
+
 
 ---
 
-### 🧰 Stack of Choice
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+
+
+## 👀 What's Coming?
+
+
+
+Currently building a side project aimed at benefiting **cities and their communities**.  
+
+I can’t say more just yet — but it’s something I believe will **truly make a difference**. 🤫
+
+
 
 ---
 
-### 📈 Activity Pulse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/"><b>LinkedIn</b></a> • 
-  <a href="mailto:jakub.strugala.business@gmail.com"><b>Email</b></a>
-</p>
+
+## 📫 Let's Connect
+
+
+
+- 👔 [LinkedIn](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/)  
+
+- ✉️ jakub.strugala.business@gmail.com
+
+
+
+> ⚡ I might not have a massive GitHub footprint — but don’t be fooled. My **real-world experience** and **industry-level tech stack** go **way beyond what’s public here**.
