@@ -1,34 +1,32 @@
-# <p align="center">👨‍💻 Jakub | Engineering the Future</p>
+# <p align="center">🛠️ Full-Stack Engineer in Stealth Mode</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=UI+Developer+@+Nokia;Final+Year+CS+Engineer;Web+%2B+Mobile+Developer;Turning+caffeine+into+private+repos" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=900&height=200&section=header&text=Jakub%20Strugała&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
-### ⚡ The Grind
-* **Day Job:** Crafting industry-level UI at **[Nokia](https://www.linkedin.com/company/nokia/)**.
-* **The Mission:** Finalizing my **Applied Computer Science Engineering** degree (🎓 T-minus 60 days).
-* **The "Free" Time:** Developing a ecosystem of private **Web & Mobile** applications. 
-
-> **Stealth Mode:** My public contribution graph is just the tip of the iceberg. I treat "free time" as an extra sprint for high-performance cross-platform projects.
+## 🌑 The Private Grind
+**UI Developer @ [Nokia](https://www.linkedin.com/company/nokia/)** | Finalizing **CS Engineering** Degree 🎓
+> I build cross-platform ecosystems when the sun goes down. Most of my latest work stays private until it's ready to disrupt.
 
 ---
 
-### 🛠️ Tech Ecosystem
+### 🧰 Stack of Choice
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
-### 🌐 Connect with me
-[**LinkedIn**](https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/) • [**Email**](mailto:jakub.strugala.business@gmail.com)
 
 ---
 
+### 📈 Activity Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=struggyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jakub-struga%C5%82a-041094281/"><b>LinkedIn</b></a> • 
+  <a href="mailto:jakub.strugala.business@gmail.com"><b>Email</b></a>
 </p>
