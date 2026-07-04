@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jakub+👋;SaaS+Front-end+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Jakub+%F0%9F%91%8B%3BSaaS+Front-end+Engineer%3BCreative+Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -30,8 +30,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=struggyyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=struggyyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=struggyyy&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=struggyyy&theme=react" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
