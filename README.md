@@ -4,7 +4,11 @@
   </a>
 </h1>
 
-<h3 align="center">SaaS Front-end Engineer @ <a href="https://www.linkedin.com/company/nokia/">Nokia</a> | Applied Computer Science Grad @ <a href="https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/">WSEI</a></h3>
+<p align="center">
+  💼 <b>SaaS Front-end Engineer</b> @ <a href="https://www.linkedin.com/company/nokia/"><b>Nokia</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎓 <b>Applied Computer Science Grad</b> @ <a href="https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/"><b>WSEI</b></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jakubstrugala/">
