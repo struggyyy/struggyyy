@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,expo,redux,tailwind,storybook,nodejs,firebase,supabase,gcp,postgres,mysql,mongodb,figma,jest,vitest,sonarqube,vercel,jenkins,docker,kubernetes,gitlab,github,git,claude&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,redux,tailwind,nodejs,firebase,supabase,gcp,postgres,mysql,mongodb,figma,jest,vitest,vercel,jenkins,docker,kubernetes,gitlab,github,git&perline=8" />
   </a>
 </p>
 
