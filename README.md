@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ My Tech Stack
 
 <p align="center">
@@ -28,8 +26,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,redux,tailwind,figma,nodejs,npm,postman,firebase,supabase,postgres,gcp,vercel,jest,vitest,jenkins,docker,kubernetes,git,github,gitlab&perline=8" />
   </a>
 </p>
-
----
 
 <!-- The GitHub Activity section is commented out to make space and focus the profile.
 ## 📊 GitHub Activity
