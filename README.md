@@ -14,17 +14,6 @@
   </a>
 </p>
 
-
-<!-- The GitHub Activity section is commented out to make space and focus the profile.
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=struggyyy&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</p>
-
----
--->
-
 ## 🐍 Contribution Snake
 
 <picture>
