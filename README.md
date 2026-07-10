@@ -2,10 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Jakub+%F0%9F%91%8B%3BSaaS+Front-end+Engineer%3BApplied+Computer+Science+Grad" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/jakubstrugala/"><img src="https://skillicons.dev/icons?i=linkedin" align="middle" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:jakub.strugala.business@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" align="middle" alt="Email" /></a>
 </h1>
+
+![divider](./assets/divider.svg)
 
 ## 🛠️ My Tech Stack
 
