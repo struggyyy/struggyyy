@@ -4,15 +4,15 @@
   </a>
 </h1>
 
-<h3 align="center">
-  💼 SaaS Front-end Engineer @ <a href="https://www.linkedin.com/company/nokia/">Nokia</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🎓 Applied Computer Science Grad @ <a href="https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/">WSEI</a>
-</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jakubstrugala/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.linkedin.com/company/nokia/">
+    <img src="https://img.shields.io/badge/Nokia-124191?style=for-the-badge&logo=nokia&logoColor=white" alt="Nokia" />
+  </a>
+  <a href="https://www.linkedin.com/school/wy%C5%BCsza-szko%C5%82a-ekonomii-i-informatyki-w-krakowie/">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93_WSEI-222222?style=for-the-badge" alt="WSEI" />
   </a>
   <a href="mailto:jakub.strugala.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
