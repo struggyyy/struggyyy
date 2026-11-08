@@ -22,4 +22,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/struggyyy/struggyyy/palette/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=struggyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ![divider](./assets/divider-orange-dots.svg)
